@@ -1,0 +1,2 @@
+ilk commit:
+  master icinde ilk dosya ve ilk commit
