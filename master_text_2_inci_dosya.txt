@@ -2,3 +2,5 @@ ikinci dosyayi ekledim 5. commit ile gidiyor
 
 6. commit ama 2. degisimi bu dosyanin
 bir commit buradan gelsin
+bir tane daha gelsin
+
