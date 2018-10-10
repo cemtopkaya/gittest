@@ -2,3 +2,4 @@ bu dosya daha dogur bir calisma icersin mesela
 yeni degisiklikler ve calismalar devam
 yine yeni bir calisma daha
 sanki son az kaldi
+test oldu master ile birlesebilir
