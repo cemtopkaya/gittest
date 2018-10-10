@@ -6,3 +6,6 @@ ilk commit:
 
 3. commit:
   yine degisiyor
+
+4. commit:
+  yine yine degisiyor
