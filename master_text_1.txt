@@ -3,3 +3,6 @@ ilk commit:
  
 2. commit:
   dosyada degisiklik
+
+3. commit:
+  yine degisiyor
