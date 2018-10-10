@@ -1,3 +1,4 @@
 dev_ozellik_2_FacebookAuth commit 1:
   facebook authentication icin kullan
   yazdik yeni bir seyler face icin
+  bu da test asamasina geldi
